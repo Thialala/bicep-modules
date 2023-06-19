@@ -1,4 +1,7 @@
 {
+  "experimentalFeaturesEnabled": {
+    "userDefinedTypes": true
+  },
   "analyzers": {
     "core": {
       "enabled": true,
