@@ -48,6 +48,6 @@ Adapt `main.bicep` depending on your needs and configure `main.bicepparam` with 
 
 **Notes:**
 
-- Replace <ResourceGroupName>, <Location>, and <DeploymentName> with your specific values.
+- Replace \<ResourceGroupName>, \<Location>, and \<DeploymentName> with your specific values.
 - Ensure file paths are correct based on your directory structure.
 - Update main.bicepparam as per your deployment needs before executing the deployment commands.
